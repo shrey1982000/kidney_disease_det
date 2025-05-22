@@ -5,7 +5,7 @@ applies various set of augmentations necessary for medical images to make the mo
 errors caused due to the medical equipment.
 
 It achieved 94% Classification upon its detection
-It also has the implementation for explanable ai using the GRAD-CAM
+It also has the implementation for explanable ai using the GRAD-CAM 
 visualization
 
 
