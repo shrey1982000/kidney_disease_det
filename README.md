@@ -10,20 +10,26 @@ visualization
 
 
 Technologies Used
+
+
 Deep Learning Framework
 
 TensorFlow 
 Keras 
 EfficientNet 
 
+
 Data Processing & Augmentation
+
 
 Albumentations 
 OpenCV 
 NumPy 
 Pandas 
 
+
 Optimization & Visualization
+
 
 Keras Tuner 
 Matplotlib 
